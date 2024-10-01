@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^2.2.1"
+  },
+  "name": "proshop_website",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Eya Bokri",
+  "license": "ISC"
+}
